@@ -6,7 +6,7 @@
   <link href="https://hxxsky.github.io/atom.xml" rel="self"/>
   
   <link href="https://hxxsky.github.io/"/>
-  <updated>2023-10-16T08:08:13.001Z</updated>
+  <updated>2023-10-16T08:45:59.784Z</updated>
   <id>https://hxxsky.github.io/</id>
   
   <author>
@@ -21,11 +21,23 @@
     <link href="https://hxxsky.github.io/2023/10/16/First-Try/"/>
     <id>https://hxxsky.github.io/2023/10/16/First-Try/</id>
     <published>2023-10-16T08:08:12.000Z</published>
-    <updated>2023-10-16T08:08:13.001Z</updated>
+    <updated>2023-10-16T08:45:59.784Z</updated>
     
     
     
     
+    <category term="Diary" scheme="https://hxxsky.github.io/categories/Diary/"/>
+    
+    <category term="PlayStation" scheme="https://hxxsky.github.io/categories/Diary/PlayStation/"/>
+    
+    <category term="Games" scheme="https://hxxsky.github.io/categories/Diary/Games/"/>
+    
+    <category term="Life" scheme="https://hxxsky.github.io/categories/Life/"/>
+    
+    
+    <category term="PS3" scheme="https://hxxsky.github.io/tags/PS3/"/>
+    
+    <category term="Games" scheme="https://hxxsky.github.io/tags/Games/"/>
     
   </entry>
   
