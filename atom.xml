@@ -6,7 +6,7 @@
   <link href="https://hxxsky.github.io/atom.xml" rel="self"/>
   
   <link href="https://hxxsky.github.io/"/>
-  <updated>2023-10-12T07:21:45.197Z</updated>
+  <updated>2023-10-16T08:08:13.001Z</updated>
   <id>https://hxxsky.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Try</title>
+    <link href="https://hxxsky.github.io/2023/10/16/First-Try/"/>
+    <id>https://hxxsky.github.io/2023/10/16/First-Try/</id>
+    <published>2023-10-16T08:08:12.000Z</published>
+    <updated>2023-10-16T08:08:13.001Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
