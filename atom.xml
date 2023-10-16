@@ -3,11 +3,11 @@
   <title>HXX</title>
   
   <subtitle>HXX</subtitle>
-  <link href="https://hxxsky.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://hxxsky.github.io/atom.xml" rel="self"/>
   
-  <link href="https://hxxsky.github.io/blog/"/>
+  <link href="https://hxxsky.github.io/"/>
   <updated>2023-10-12T07:21:45.197Z</updated>
-  <id>https://hxxsky.github.io/blog/</id>
+  <id>https://hxxsky.github.io/</id>
   
   <author>
     <name>HXX</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://hxxsky.github.io/blog/2023/10/12/hello-world/"/>
-    <id>https://hxxsky.github.io/blog/2023/10/12/hello-world/</id>
+    <link href="https://hxxsky.github.io/2023/10/12/hello-world/"/>
+    <id>https://hxxsky.github.io/2023/10/12/hello-world/</id>
     <published>2023-10-12T07:21:45.197Z</published>
     <updated>2023-10-12T07:21:45.197Z</updated>
     
